@@ -1,0 +1,129 @@
+hanu-yokia:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: HANU
+
+matic-network:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: MATIC
+
+ethereum:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ETH
+
+polycat-finance:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: FISH
+
+cardano:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ADA
+
+ripple:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: XRP
+
+vechain:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: VET
+
+shiba-inu:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: SHIB
+
+tsuki-inu:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: TKINU
+
+hedera-hashgraph:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: HBAR
+
+enjincoin:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ENJ
+
+bitcoin:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: BTC
+
+dogecoin:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: DOGE
+
+adamant:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ADDY
+
+quick:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: QUICK
+  
+illuvium:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ILV
+
+gembites:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: GBTS
+
+qi-dao:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: QI
+
+iron-finance:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: ICE
+
+grapefruit-coin:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: GRPFT
+
+babypunks:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: BPUNKS
+
+strong:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: STRONG
+
+render-token:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: RNDR
+
+iron-stablecoin:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: IRON
+
+tetu:
+  discordBotKey: {INSERT TOKEN HERE} 
+  updateFreq: 120
+  abbreviation: TETU
+
+
+
+
+

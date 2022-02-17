@@ -1,0 +1,25 @@
+version: "2.2"
+
+services:
+  coingecko:
+    build: pythondockerfile/
+    network_mode: bridge
+    volumes:
+      - ./:/usr/src/
+    privileged: true
+    logging:
+        driver: "json-file"
+        options:
+            max-file: "1"
+            max-size: 10m
+  jssites:
+    build: jssites/
+    network_mode: bridge
+    volumes:
+      - ./:/usr/src/
+    privileged: true
+    logging:
+        driver: "json-file"
+        options:
+            max-file: "1"
+            max-size: 10m
